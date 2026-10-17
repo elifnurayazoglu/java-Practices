@@ -30,5 +30,5 @@ The character is a digit.
 ## Run
 
 ```
-Open the project in NetBeans and run the run class.
+Open the project in NetBeans and run the main class.
 ```
