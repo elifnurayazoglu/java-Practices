@@ -32,6 +32,5 @@ Area of the triangle: 6.0
 ## Run
 
 ```
-javac CalculationInATriangle.java
-java CalculationInATriangle
+Open the project in NetBeans and run the main class.
 ```
