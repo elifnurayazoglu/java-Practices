@@ -30,6 +30,5 @@ The character is a digit.
 ## Run
 
 ```
-javac CharacterAnalysis.java
-java CharacterAnalysis
+Open the project in NetBeans and run the run class.
 ```
